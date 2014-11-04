@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="2048"
+   height="2048"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,995.6378)"
+     id="layer1">
+    <path
+       d="m 1386.0938,113.25 0,50.4375 0,842.25 0,842.2813 0,50.4374 50.4374,0 458.4063,0 50.4063,0 0,-100.8437 -50.4063,0 -408,0 0,-791.875 0,-791.8125 408,0 50.4063,0 0,-100.875 -50.4063,0 -458.4063,0 -50.4374,0 z M 1221.125,903.03125 1066.6875,1025.3125 1188.9688,1179.75 1343.4062,1057.5 1221.125,903.03125 z M 912.21875,1147.5938 757.78125,1269.875 880.0625,1424.3125 1034.5,1302.0312 912.21875,1147.5938 z m -308.875,244.5624 -154.4375,122.2813 L 571.1875,1668.875 725.625,1546.5938 603.34375,1392.1562 z M 294.4375,1636.7188 140,1759 262.28125,1913.4375 416.71875,1791.1562 294.4375,1636.7188 z"
+       transform="translate(0,-995.6378)"
+       id="rect2985"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:100.84922791;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+  </g>
+</svg>

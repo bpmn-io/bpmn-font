@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2048"
+   height="2048"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   inkscape:export-xdpi="1.0546875"
+   inkscape:export-ydpi="1.0546875"
+   sodipodi:docname="text-annotation.svg"
+   inkscape:export-filename="/home/nikku/camunda/projects/bpmn.io/bpmn-font/raw/text-annotation.png">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24296875"
+     inkscape:cx="-27.760325"
+     inkscape:cy="869.20809"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     inkscape:window-x="1600"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,995.6378)">
+    <g
+       id="g2984"
+       transform="matrix(1.0039583,0,0,1.0155096,-3.9148864,-0.30067125)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="rect2985"
+         inkscape:connector-curvature="0"
+         d="m 1894.9284,-831.93871 -458.41,0 0,842.265035 0,842.276915 458.41,0"
+         style="fill:none;stroke:#000000;stroke-width:100.84922791;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3762"
+         d="M 201.14292,840.59182 1406.3293,-113.58769"
+         style="fill:none;stroke:#000000;stroke-width:196.99182129;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:196.99182549, 196.99182549;stroke-dashoffset:0" />
+    </g>
+  </g>
+</svg>
