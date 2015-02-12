@@ -6,11 +6,11 @@
 
 ## creating font symbols
 
-__TLDR;__ Use [Inkscape](https://inkscape.org) to create our font symbols as 2048*2048 SVG graphics. Following [some rules](https://github.com/fontello/fontello/wiki/How-to-use-custom-images), convert them to a single path.
+__TLDR;__ Use [Inkscape](https://inkscape.org) to create our font symbols as 2000*2000 SVG graphics. Following [some rules](https://github.com/fontello/fontello/wiki/How-to-use-custom-images), convert them to a single path.
 
 ### steps
 
-1. Create font symbols in `src/raw` as 2048*2048 pixel SVG graphics
+1. Create font symbols in `src/raw` as 2000*2000 pixel SVG graphics
 2. Export as font path to `src/symbols`
 
 
@@ -20,12 +20,13 @@ __TLDR;__ Use [Inkscape](https://inkscape.org) to create our font symbols as 204
 
 You may need to do some additional simplification of your drawing, such converting objects and strokes to paths (see the Path menu), in addition to the below. You can check the svg file output in a text editor - if it has worked correctly, you should see a single <path> element and an empty <defs> element.
 
-Select all
-Object -> Ungroup
-Path -> Union
-Path -> Combine paths
-File -> Vacuum Defs
-Save as -> Plain SVG
+* Select all
+* Object -> Ungroup
+* Path -> Stroke to Path
+* Select all 
+* Path -> Union
+* File -> Vacuum Defs
+* Save as -> Plain SVG
 
 Save the symbols to the `src/symbols` folder.
 
