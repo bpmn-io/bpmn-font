@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58716216"
+     inkscape:cx="381.77214"
+     inkscape:cy="999.99998"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1878"
+     inkscape:window-height="1035"
+     inkscape:window-x="42"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4008"
+       empspacing="20"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.99999905;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 987.13281 514.23047 L 979.19922 514.79688 C 839.2043 514.79688 746.63281 615.21011 746.63281 744.51562 C 746.63281 810.49856 794.55877 868.24695 841.99414 909.97461 C 816.57164 918.70912 752.81052 942.10342 688.24805 978.33398 C 651.27598 999.08162 614.86336 1023.6995 586.96875 1051.8125 C 559.07415 1079.9255 539.46556 1111.8043 537.67383 1146.8867 L 537.66406 1147.0566 L 537.66406 1485.3848 L 700.19141 1485.3848 C 701.63177 1485.8961 703.20419 1485.8961 704.64453 1485.3848 L 1462.3359 1485.3848 L 1462.3359 1147.2266 C 1462.3359 1115.9787 1442.3862 1086.3131 1413.5137 1058.9844 C 1384.6412 1031.6556 1346.3428 1006.386 1307.2617 984.41211 C 1238.1218 945.53718 1169.8262 918.40359 1143.7676 909.02148 C 1189.4638 866.84864 1223.3984 809.06019 1223.3984 744.51562 C 1223.3984 615.07988 1127.1277 514.23047 987.13281 514.23047 z M 923.60938 649.62109 C 945.78877 649.48668 968.4824 654.11747 990.51172 665.95508 C 1086.9592 717.7562 1190.7255 737.38915 1208.9473 721.29102 C 1209.7002 728.90709 1210.0898 736.65409 1210.0898 744.51562 C 1210.0898 807.97036 1174.5781 865.75339 1126.9648 906.49414 L 1117.8848 914.26367 L 1129.2695 917.89062 C 1138.7477 920.90992 1186.5342 938.76895 1242.1309 965.58008 C 1239.4525 1081.197 1127.5252 1174.9922 988.74219 1174.9922 C 849.92692 1174.9922 738.20402 1084.2614 735.30664 968.73633 C 793.47625 940.30755 845.70947 922.53644 856.99219 918.86523 L 868.38281 915.1582 L 859.2168 907.44531 C 810.43049 866.3868 759.94336 807.55111 759.94336 744.51562 C 759.94336 736.50826 760.33415 728.62192 761.08398 720.87109 C 776.81244 707.19025 846.97842 650.08549 923.60938 649.62109 z M 1251.9629 970.37305 C 1267.9687 978.27296 1284.4561 986.85876 1300.7383 996.01367 C 1339.2502 1017.6676 1376.7933 1042.5565 1404.3633 1068.6523 C 1431.9333 1094.7482 1449.0273 1121.7761 1449.0273 1147.2266 L 1449.0273 1472.0762 L 1298.7754 1472.0762 L 1298.7754 1233.0645 L 1285.4648 1233.0645 L 1285.4648 1472.0762 L 709.06836 1472.0762 L 709.06836 1233.0645 C 709.19561 1224.0648 695.63255 1224.0648 695.75977 1233.0645 L 695.75977 1472.0762 L 550.97461 1472.0762 L 550.97461 1147.498 C 552.55575 1116.9999 569.89322 1087.916 596.41602 1061.1855 C 622.95853 1034.4352 658.46301 1010.3112 694.76172 989.94141 C 705.00393 984.19378 715.30471 978.75501 725.49023 973.61914 C 731.34725 1093.1147 847.37662 1184.9922 988.74219 1184.9922 C 1130.2476 1184.9922 1246.3738 1090.09 1251.9629 970.37305 z "
+       transform="translate(0,-947.63784)"
+       id="path4135" />
+  </g>
+</svg>

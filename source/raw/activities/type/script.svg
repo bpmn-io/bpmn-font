@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="script-task.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.61447579"
+     inkscape:cx="241.32701"
+     inkscape:cy="1135.8297"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1878"
+     inkscape:window-height="1035"
+     inkscape:window-x="42"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4008"
+       empspacing="20"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 800.91759,-453.56731 -2.32643,1.3812 c -98.90825,58.61265 -165.63808,111.79399 -208.14732,161.44911 -42.50927,49.65513 -60.78173,96.22494 -61.31264,140.01363 -1.06181,87.577379 66.65195,159.5912524 133.99888,228.564291 67.34692,68.973039 134.48959,135.576819 141.92723,206.388059 3.71881,35.40562 -6.46945,72.64516 -39.99286,114.92838 -33.52344,42.28322 -90.61364,89.02428 -179.30819,140.72736 l -31.5784,18.40691 670.43414,0 2.3072,-1.34261 c 89.9724,-52.44801 148.9543,-100.26036 184.8368,-145.51911 35.8825,-45.25875 48.4361,-88.55 44.1596,-129.26501 -8.553,-81.43001 -80.3469,-149.41473 -147.4366,-218.124339 -67.0897,-68.709588 -129.3157,-137.475809 -128.3815,-214.524741 0.4671,-38.52445 16.1767,-80.22977 56.5633,-127.4054 40.3866,-47.17564 105.4676,-99.3782 203.2129,-157.3017 l 31.0074,-18.37603 z m 5.48619,19.75338 593.29952,0 c -82.4505,51.41013 -140.0303,98.67006 -178.0466,143.07693 -42.5092,49.65513 -60.7817,96.22494 -61.3126,140.01363 -1.0618,87.577379 66.6558,159.5912524 134.0028,228.564291 67.3469,68.973039 134.4857,135.576819 141.9233,206.388059 3.7188,35.40562 -6.4694,72.64516 -39.9928,114.92838 -33.229,41.91184 -89.7085,88.21832 -177.0744,139.3809 l -592.93302,0 c 72.96374,-45.30295 122.6348,-87.20287 154.27307,-127.10835 35.88252,-45.25875 48.43609,-88.55 44.1596,-129.26501 C 816.14968,200.73489 744.35578,132.75017 677.26609,64.040561 610.17639,-4.669027 547.95041,-73.435248 548.88457,-150.48418 c 0.46709,-38.52445 16.17675,-80.22977 56.56334,-127.4054 40.06239,-46.79693 104.51497,-98.5569 200.95587,-155.92435 z M 719.99819,-258.441 c -13.35646,-0.18884 -13.35646,19.94228 0,19.75338 l 354.58081,0 c 13.3565,0.18884 13.3565,-19.94228 0,-19.75338 l -79.21325,0 z m 35.85314,199.246751 c -13.35646,-0.188843 -13.35646,19.942277 0,19.753375 l 322.67837,0 c 13.3564,0.188842 13.3564,-19.942277 0,-19.753375 z M 863.41079,140.04863 c -13.35646,-0.18885 -13.35646,19.94227 0,19.75337 l 358.53531,0 c 13.3565,0.18884 13.3565,-19.94227 0,-19.75337 z m 71.7063,199.24674 c -13.35646,-0.1889 -13.35646,19.94227 0,19.75338 l 358.53531,0 c 13.3565,0.1889 13.3565,-19.94227 0,-19.75338 z"
+       id="path4135"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsssssccccssssscccccsssssccssssscccccccccccccccccccccc" />
+  </g>
+</svg>
