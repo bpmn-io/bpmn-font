@@ -24,3 +24,12 @@
 .icon-receive:before { content: '\e816'; } /* '' */
 .icon-script:before { content: '\e817'; } /* '' */
 .icon-manual:before { content: '\e818'; } /* '' */
+.icon-complex-gateway:before { content: '\e819'; } /* '' */
+.icon-event-based-gateway-high-quality:before { content: '\e81a'; } /* '' */
+.icon-event-based-gateway:before { content: '\e81b'; } /* '' */
+.icon-exclusive-event-based:before { content: '\e81c'; } /* '' */
+.icon-exclusive-gateway-variant-1:before { content: '\e81d'; } /* '' */
+.icon-exclusive-gateway-variant-2:before { content: '\e81e'; } /* '' */
+.icon-inclusive-gateway:before { content: '\e81f'; } /* '' */
+.icon-parallel-event-based-instantiate-gateway-kopie:before { content: '\e820'; } /* '' */
+.icon-parallel-gateway:before { content: '\e821'; } /* '' */
