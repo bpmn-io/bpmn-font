@@ -16,11 +16,11 @@
 .icon-business-rule-task:before { content: '\e80e'; } /* '' */
 .icon-service-task:before { content: '\e80f'; } /* '' */
 .icon-script-task:before { content: '\e810'; } /* '' */
-.icon-send:before { content: '\e811'; } /* '' */
-.icon-receive:before { content: '\e812'; } /* '' */
-.icon-user:before { content: '\e813'; } /* '' */
-.icon-manual:before { content: '\e814'; } /* '' */
+.icon-trash:before { content: '\e811'; } /* '' */
+.icon-user:before { content: '\e812'; } /* '' */
+.icon-service:before { content: '\e813'; } /* '' */
+.icon-send:before { content: '\e814'; } /* '' */
 .icon-business-rule:before { content: '\e815'; } /* '' */
-.icon-service:before { content: '\e816'; } /* '' */
+.icon-receive:before { content: '\e816'; } /* '' */
 .icon-script:before { content: '\e817'; } /* '' */
-.icon-trash:before { content: '\e818'; } /* '' */
+.icon-manual:before { content: '\e818'; } /* '' */
