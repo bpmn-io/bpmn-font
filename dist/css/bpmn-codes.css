@@ -2,7 +2,7 @@
 .icon-end-event:before { content: '\e800'; } /* '' */
 .icon-text-annotation:before { content: '\e801'; } /* '' */
 .icon-intermediate-event:before { content: '\e802'; } /* '' */
-.icon-trash:before { content: '\e803'; } /* '' */
+.icon-screw-wrench:before { content: '\e803'; } /* '' */
 .icon-connection:before { content: '\e804'; } /* '' */
 .icon-start-event:before { content: '\e805'; } /* '' */
 .icon-gateway:before { content: '\e806'; } /* '' */
@@ -23,3 +23,4 @@
 .icon-business-rule:before { content: '\e815'; } /* '' */
 .icon-service:before { content: '\e816'; } /* '' */
 .icon-script:before { content: '\e817'; } /* '' */
+.icon-trash:before { content: '\e818'; } /* '' */
