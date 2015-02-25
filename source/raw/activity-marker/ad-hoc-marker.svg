@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ad-hoc-marker.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.4345"
+     inkscape:cx="582.27848"
+     inkscape:cy="1000"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1878"
+     inkscape:window-height="1035"
+     inkscape:window-x="42"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4008"
+       empspacing="20"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200;stroke-opacity:1"
+       d="M 250,94.439498 C 355.51505,-160.53763 514.63337,-333.77774 679.92123,-313.41763 885.0493,-296.83539 1065.4346,-74.874418 1255.9051,55.525833 1362.272,125.851 1480.3209,85.147268 1574.6098,-34.630045 1636.3423,-103.92939 1702.3382,-166.62466 1750,-276.69158 l 0,346.208288 C 1651.3107,267.75789 1520.2471,404.03299 1380.8828,411.83591 1256.445,430.93124 1134.2538,360.52367 1021.439,257.73027 885.67319,142.44766 746.35293,-17.137331 594.48477,14.410117 456.76724,44.486798 352.42855,248.59253 250,419.76449 Z"
+       id="rect4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+</svg>
