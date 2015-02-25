@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2000"
+   height="2000"
+   viewBox="0 0 2000 2000"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="01-data-store.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.3072379"
+     inkscape:cx="-181.49486"
+     inkscape:cy="1000"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showguides="false"
+     inkscape:window-width="1878"
+     inkscape:window-height="1035"
+     inkscape:window-x="42"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4008"
+       empspacing="20"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,947.63784)">
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="m 1000.0449,369.08594 c -156.13936,0 -312.24178,13.03576 -432.36912,39.23437 -60.06367,13.09931 -111.13036,29.45973 -148.89648,49.36133 -37.31344,19.66304 -62.05524,42.98734 -68.27735,70.875 -0.16737,0.39626 -0.2829,0.81245 -0.34375,1.23828 l -0.1582,0.76953 0.10547,0.51367 0,145.125 c -0.0152,0.22501 -0.0152,0.45078 0,0.67579 l 0,145.37109 c -0.0152,0.225 -0.0152,0.45078 0,0.67578 l 0,647.02152 0.10156,0.5 c 5.84,28.3386 30.80614,51.9714 68.57227,71.873 37.76612,19.9016 88.83281,36.262 148.89648,49.3613 120.12735,26.1987 276.22976,39.2344 432.36912,39.2344 156.1394,0 312.2418,-13.0357 432.3692,-39.2344 60.0636,-13.0993 111.1303,-29.4597 148.8964,-49.3613 37.7662,-19.9016 62.7323,-43.5344 68.5723,-71.873 l 0.1016,-0.5 0,-647.05082 c 0.015,-0.22176 0.015,-0.44425 0,-0.66601 l 0,-145.38086 c 0.015,-0.22176 0.015,-0.44426 0,-0.66602 l 0,-145.38086 c 0.015,-0.22176 0.015,-0.44425 0,-0.66601 l 0,-0.082 -0.016,-0.0801 c -0.056,-0.52787 -0.1959,-1.04343 -0.4141,-1.52734 -6.2633,-27.83831 -30.9804,-51.12879 -68.2442,-70.76563 -37.7661,-19.9016 -88.8328,-36.26202 -148.8964,-49.36133 -120.1274,-26.19861 -276.2298,-39.23437 -432.3692,-39.23437 z m 0,10 c 155.5817,0 311.2004,13.04288 430.2383,39.0039 59.519,12.98051 109.8961,29.21937 146.3652,48.4375 35.9498,18.94443 57.8186,40.60655 63.1387,64.03711 -5.3209,23.42988 -27.1898,45.09122 -63.1387,64.03516 -36.4691,19.21813 -86.8462,35.45698 -146.3652,48.4375 -119.0379,25.96103 -274.6566,39.00586 -430.2383,39.00586 -155.5816,0 -311.20032,-13.04483 -430.23826,-39.00586 -59.51897,-12.98052 -109.89607,-29.21937 -146.36523,-48.4375 -35.94887,-18.94396 -57.81783,-40.60526 -63.13868,-64.03516 5.32013,-23.43059 27.18888,-45.09267 63.13868,-64.03711 36.46916,-19.21813 86.84626,-35.45699 146.36523,-48.4375 77.84118,-16.97641 171.32468,-28.42889 270.21131,-34.32256 52.33487,-3.11917 106.18313,-4.68134 160.02695,-4.68134 z M 360.10547,554.97656 c 11.63996,18.25925 31.83829,34.32921 58.67383,48.47071 37.76612,19.9016 88.83281,36.26201 148.89648,49.36132 120.12735,26.19862 276.22976,39.23438 432.36912,39.23438 156.1394,0 312.2418,-13.03576 432.3692,-39.23438 60.0636,-13.09931 111.1303,-29.45972 148.8964,-49.36132 26.8348,-14.14108 47.0337,-30.21018 58.6739,-48.46875 l 0,120.9707 c -5.0525,23.6862 -27.0459,45.57353 -63.336,64.69726 -36.4691,19.21814 -86.8462,35.45894 -146.3652,48.43946 -119.0379,25.96102 -274.6566,39.0039 -430.2383,39.0039 -155.5816,0 -311.20032,-13.04288 -430.23826,-39.0039 -59.51897,-12.98052 -109.89607,-29.22132 -146.36523,-48.43946 -36.29004,-19.12374 -58.28345,-41.01105 -63.33594,-64.69726 z m 0,146.04688 c 11.63996,18.25924 31.83829,34.32919 58.67383,48.4707 37.76612,19.90159 88.83281,36.26202 148.89648,49.36133 120.12735,26.19861 276.22976,39.23437 432.36912,39.23437 156.1394,0 312.2418,-13.03576 432.3692,-39.23437 60.0636,-13.09931 111.1303,-29.45974 148.8964,-49.36133 26.8348,-14.14108 47.0337,-30.21019 58.6739,-48.46875 l 0,120.9707 c -5.0525,23.68621 -27.0459,45.57354 -63.336,64.69727 -36.4691,19.21813 -86.8462,35.45894 -146.3652,48.43945 -119.0379,25.96103 -274.6566,39.00391 -430.2383,39.00391 -155.5816,0 -311.20032,-13.04288 -430.23826,-39.00391 C 510.28767,922.1523 459.91057,905.91149 423.44141,886.69336 387.15137,867.56962 365.15796,845.6823 360.10547,821.99609 Z m 0,146.04687 c 11.63996,18.25925 31.83829,34.3292 58.67383,48.47071 37.76612,19.90159 88.83281,36.26202 148.89648,49.36132 120.12735,26.19862 276.22976,39.23438 432.36912,39.23438 156.1394,0 312.2418,-13.03576 432.3692,-39.23438 60.0636,-13.0993 111.1303,-29.45973 148.8964,-49.36132 26.8348,-14.14109 47.0337,-30.21019 58.6739,-48.46875 l 0,621.70313 c -5.0525,23.6862 -27.0459,45.5755 -63.336,64.6992 -36.4691,19.2181 -86.8462,35.457 -146.3652,48.4375 -119.0379,25.961 -274.6566,39.0039 -430.2383,39.0039 -155.5816,0 -311.20032,-13.0429 -430.23826,-39.0039 -59.51897,-12.9805 -109.89607,-29.2194 -146.36523,-48.4375 -36.29004,-19.1237 -58.28345,-41.013 -63.33594,-64.6992 z"
+       transform="translate(0,-947.63784)"
+       id="path4136"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssccccccccccssssscccccccccccsssssscssssscsssscsssssccssssscccsssssccssssscccsssssccssssscc" />
+  </g>
+</svg>
