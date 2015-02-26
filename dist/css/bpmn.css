@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'bpmn';
-  src: url('../font/bpmn.eot?70003833');
-  src: url('../font/bpmn.eot?70003833#iefix') format('embedded-opentype'),
-       url('../font/bpmn.woff?70003833') format('woff'),
-       url('../font/bpmn.ttf?70003833') format('truetype'),
-       url('../font/bpmn.svg?70003833#bpmn') format('svg');
+  src: url('../font/bpmn.eot?9010928');
+  src: url('../font/bpmn.eot?9010928#iefix') format('embedded-opentype'),
+       url('../font/bpmn.woff?9010928') format('woff'),
+       url('../font/bpmn.ttf?9010928') format('truetype'),
+       url('../font/bpmn.svg?9010928#bpmn') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -14,7 +14,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'bpmn';
-    src: url('../font/bpmn.svg?70003833#bpmn') format('svg');
+    src: url('../font/bpmn.svg?9010928#bpmn') format('svg');
   }
 }
 */
@@ -50,14 +50,14 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
  
-.icon-end-event:before { content: '\e800'; } /* '' */
+.icon-event-based-gateway-high-quality:before { content: '\e800'; } /* '' */
 .icon-text-annotation:before { content: '\e801'; } /* '' */
-.icon-intermediate-event:before { content: '\e802'; } /* '' */
+.icon-task:before { content: '\e802'; } /* '' */
 .icon-screw-wrench:before { content: '\e803'; } /* '' */
 .icon-connection:before { content: '\e804'; } /* '' */
-.icon-start-event:before { content: '\e805'; } /* '' */
-.icon-gateway:before { content: '\e806'; } /* '' */
-.icon-task:before { content: '\e807'; } /* '' */
+.icon-01-none-start:before { content: '\e805'; } /* '' */
+.icon-01-none-intermediate-throwing:before { content: '\e806'; } /* '' */
+.icon-01-none-end:before { content: '\e807'; } /* '' */
 .icon-subprocess-expanded:before { content: '\e808'; } /* '' */
 .icon-subprocess-collapsed:before { content: '\e809'; } /* '' */
 .icon-send-task:before { content: '\e80a'; } /* '' */
@@ -76,7 +76,7 @@
 .icon-script:before { content: '\e817'; } /* '' */
 .icon-manual:before { content: '\e818'; } /* '' */
 .icon-complex-gateway:before { content: '\e819'; } /* '' */
-.icon-event-based-gateway-high-quality:before { content: '\e81a'; } /* '' */
+.icon-02-message-start:before { content: '\e81a'; } /* '' */
 .icon-event-based-gateway:before { content: '\e81b'; } /* '' */
 .icon-exclusive-event-based:before { content: '\e81c'; } /* '' */
 .icon-exclusive-gateway-variant-1:before { content: '\e81d'; } /* '' */
@@ -84,3 +84,60 @@
 .icon-inclusive-gateway:before { content: '\e81f'; } /* '' */
 .icon-parallel-event-based-instantiate-gateway:before { content: '\e820'; } /* '' */
 .icon-parallel-gateway:before { content: '\e821'; } /* '' */
+.icon-02-message-start-non-interrupting:before { content: '\e822'; } /* '' */
+.icon-02-message-intermediate:before { content: '\e823'; } /* '' */
+.icon-02-message-intermediate-non-interrupting:before { content: '\e824'; } /* '' */
+.icon-02-message-intermediate-throwing:before { content: '\e825'; } /* '' */
+.icon-02-message-end:before { content: '\e826'; } /* '' */
+.icon-03-timer-start:before { content: '\e827'; } /* '' */
+.icon-03-timer-start-non-interrupting:before { content: '\e828'; } /* '' */
+.icon-03-timer-intermediate:before { content: '\e829'; } /* '' */
+.icon-03-timer-intermediate-non-interrupting:before { content: '\e82a'; } /* '' */
+.icon-04-escalation-start:before { content: '\e82b'; } /* '' */
+.icon-04-escalation-start-non-interrupting:before { content: '\e82c'; } /* '' */
+.icon-04-escalation-intermediate:before { content: '\e82d'; } /* '' */
+.icon-04-escalation-intermediate-non-interrupting:before { content: '\e82e'; } /* '' */
+.icon-04-escalation-intermediate-throwing:before { content: '\e82f'; } /* '' */
+.icon-04-escalation-end:before { content: '\e830'; } /* '' */
+.icon-05-conditional-start:before { content: '\e831'; } /* '' */
+.icon-05-conditional-start-non-interrupting:before { content: '\e832'; } /* '' */
+.icon-05-conditional-intermediate:before { content: '\e833'; } /* '' */
+.icon-05-conditional-intermediate-non-interrupting:before { content: '\e834'; } /* '' */
+.icon-06-link-intermediate:before { content: '\e835'; } /* '' */
+.icon-06-link-intermediate-throwing:before { content: '\e836'; } /* '' */
+.icon-07-error-start:before { content: '\e837'; } /* '' */
+.icon-07-error-intermediate:before { content: '\e838'; } /* '' */
+.icon-07-error-end:before { content: '\e839'; } /* '' */
+.icon-08-cancel-intermediate:before { content: '\e83a'; } /* '' */
+.icon-08-cancel-end:before { content: '\e83b'; } /* '' */
+.icon-09-compensation-start:before { content: '\e83c'; } /* '' */
+.icon-09-compensation-intermediate:before { content: '\e83d'; } /* '' */
+.icon-09-compensation-intermediate-throwing:before { content: '\e83e'; } /* '' */
+.icon-09-compensation-end:before { content: '\e83f'; } /* '' */
+.icon-10-signal-start:before { content: '\e840'; } /* '' */
+.icon-10-signal-start-non-interrupting:before { content: '\e841'; } /* '' */
+.icon-10-signal-intermediate:before { content: '\e842'; } /* '' */
+.icon-10-signal-intermediate-non-interrupting:before { content: '\e843'; } /* '' */
+.icon-10-signal-intermediate-throwing:before { content: '\e844'; } /* '' */
+.icon-10-signal-end:before { content: '\e845'; } /* '' */
+.icon-11-multiple-start:before { content: '\e846'; } /* '' */
+.icon-11-multiple-start-non-interrupting:before { content: '\e847'; } /* '' */
+.icon-11-multiple-intermediate:before { content: '\e848'; } /* '' */
+.icon-11-multiple-intermediate-non-interrupting:before { content: '\e849'; } /* '' */
+.icon-11-multiple-intermediate-throwing:before { content: '\e84a'; } /* '' */
+.icon-11-multiple-end:before { content: '\e84b'; } /* '' */
+.icon-12-parallel-multiple-start:before { content: '\e84c'; } /* '' */
+.icon-12-parallel-multiple-start-non-interrupting:before { content: '\e84d'; } /* '' */
+.icon-12-parallel-multiple-intermediate:before { content: '\e84e'; } /* '' */
+.icon-12-parallel-multiple-intermediate-non-interrupting:before { content: '\e84f'; } /* '' */
+.icon-13-terminate-end-:before { content: '\e850'; } /* '' */
+.icon-compensation-marker:before { content: '\e851'; } /* '' */
+.icon-parallel-mi-marker:before { content: '\e852'; } /* '' */
+.icon-sub-process-marker:before { content: '\e853'; } /* '' */
+.icon-sequential-mi-marker-kopie:before { content: '\e854'; } /* '' */
+.icon-ad-hoc-marker:before { content: '\e855'; } /* '' */
+.icon-loop-marker:before { content: '\e856'; } /* '' */
+.icon-data-object:before { content: '\e857'; } /* '' */
+.icon-data-input:before { content: '\e858'; } /* '' */
+.icon-data-output:before { content: '\e859'; } /* '' */
+.icon-data-store:before { content: '\e85a'; } /* '' */
