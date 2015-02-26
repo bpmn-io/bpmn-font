@@ -7,12 +7,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2048"
    height="2048"
-   id="svg2">
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-xdpi="1.0546875"
+   inkscape:export-ydpi="1.0546875"
+   sodipodi:docname="text-annotation.svg"
+   inkscape:export-filename="/home/nikku/camunda/projects/bpmn.io/bpmn-font/raw/text-annotation.png">
   <defs
      id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24296875"
+     inkscape:cx="548.21865"
+     inkscape:cy="869.20809"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="119"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -21,17 +48,19 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,995.6378)"
-     id="layer1">
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,995.6378)">
     <path
-       d="m 1386.0938,113.25 0,50.4375 0,842.25 0,842.2813 0,50.4374 50.4374,0 458.4063,0 50.4063,0 0,-100.8437 -50.4063,0 -408,0 0,-791.875 0,-791.8125 408,0 50.4063,0 0,-100.875 -50.4063,0 -458.4063,0 -50.4374,0 z M 1221.125,903.03125 1066.6875,1025.3125 1188.9688,1179.75 1343.4062,1057.5 1221.125,903.03125 z M 912.21875,1147.5938 757.78125,1269.875 880.0625,1424.3125 1034.5,1302.0312 912.21875,1147.5938 z m -308.875,244.5624 -154.4375,122.2813 L 571.1875,1668.875 725.625,1546.5938 603.34375,1392.1562 z M 294.4375,1636.7188 140,1759 262.28125,1913.4375 416.71875,1791.1562 294.4375,1636.7188 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:101.82922363;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 1387.375 197.08594 L 1387.375 1005.8242 L 1387.375 1714.5801 L 1840 1714.5801 L 1890.9141 1714.5801 L 1890.9141 1612.75 L 1840 1612.75 L 1489.2051 1612.75 L 1489.2051 1005.8242 L 1489.2051 298.91602 L 1840 298.91602 L 1890.9141 298.91602 L 1890.9141 197.08594 L 1840 197.08594 L 1387.375 197.08594 z M 1222.6504 900.99414 L 1067.3945 1025.3301 L 1191.7285 1180.5859 L 1346.9844 1056.25 L 1222.6504 900.99414 z M 912.13672 1149.6641 L 756.88086 1274 L 881.2168 1429.2559 L 1036.4727 1304.9199 L 912.13672 1149.6641 z M 601.625 1398.334 L 446.36914 1522.6699 L 570.70312 1677.9258 L 725.96094 1553.5898 L 601.625 1398.334 z M 291.11328 1647.0039 L 135.85742 1771.3398 L 260.19141 1926.5957 L 415.44727 1802.2598 L 291.11328 1647.0039 z "
        transform="translate(0,-995.6378)"
-       id="rect2985"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:100.84922791;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       id="rect2985" />
   </g>
 </svg>
