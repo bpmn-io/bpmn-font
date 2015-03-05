@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.42431641"
-     inkscape:cx="860.99272"
+     inkscape:cx="5.4990583"
      inkscape:cy="1024"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -52,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -77,13 +77,13 @@
      id="layer1"
      transform="translate(0,947.63784)">
     <rect
-       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:80;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:120;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4187"
-       width="1720"
-       height="1400"
-       x="140"
-       y="-647.63782"
-       rx="315"
-       ry="315" />
+       width="1800"
+       height="1460"
+       x="100"
+       y="-677.63782"
+       rx="329.65115"
+       ry="328.5" />
   </g>
 </svg>
