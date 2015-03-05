@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="parallel-event-based-instantiate-gateway Kopie.svg">
+   sodipodi:docname="parallel-event-based-instantiate-gateway.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43888889"
-     inkscape:cx="999.99998"
+     inkscape:cx="586.45568"
      inkscape:cy="999.99998"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -77,23 +77,23 @@
      id="layer1"
      transform="translate(0,947.63784)">
     <rect
-       style="opacity:1;fill:none;fill-opacity:0.09803922;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.09803922;stroke:#000000;stroke-width:100;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4135"
-       width="1360.0714"
-       height="1360.0714"
-       x="64.09671"
-       y="-1350.1168"
+       width="1300.0714"
+       height="1300.0714"
+       x="94.09671"
+       y="-1320.1168"
        transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)" />
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 930 610 L 930 930 L 610 930 L 610 1070 L 930 1070 L 930 1390 L 1070 1390 L 1070 1070 L 1390 1070 L 1390 930 L 1070 930 L 1070 610 L 930 610 z "
-       transform="translate(0,-947.63784)"
-       id="rect4136" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 937.175,-297.66284 0,287.2 -287.2,0 0,125.65 287.2,0 0,287.2 125.65,0 0,-287.2 287.2,0 0,-125.65 -287.2,0 0,-287.2 -125.65,0 z"
+       id="rect4136"
+       inkscape:connector-curvature="0" />
     <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4137"
        cx="1000"
        cy="52.36216"
-       r="560" />
+       r="510" />
   </g>
 </svg>
