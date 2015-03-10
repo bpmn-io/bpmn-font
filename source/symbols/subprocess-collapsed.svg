@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3891"
+   height="2048"
+   width="2048">
+  <defs
+     id="defs3893" />
+  <metadata
+     id="metadata3896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,995.63783)"
+     id="layer1">
+    <path
+       id="rect3830"
+       transform="translate(0,-995.63783)"
+       d="M 441.30078 273.61133 C 266.57475 273.61133 124.34961 415.83646 124.34961 590.5625 L 124.34961 1457.4395 C 124.34961 1632.1655 266.57475 1774.3906 441.30078 1774.3906 L 1606.6992 1774.3906 C 1781.4253 1774.3906 1923.6504 1632.1655 1923.6504 1457.4395 L 1923.6504 590.5625 C 1923.6504 415.83646 1781.4253 273.61133 1606.6992 273.61133 L 441.30078 273.61133 z M 441.30078 373.61133 L 1606.6992 373.61133 C 1727.755 373.61133 1823.6504 469.50674 1823.6504 590.5625 L 1823.6504 1457.4395 C 1823.6504 1578.4952 1727.755 1674.3906 1606.6992 1674.3906 L 1370.457 1674.3906 L 1370.457 1043.6445 L 677.54297 1043.6445 L 677.54297 1075.3809 L 677.54297 1674.3906 L 441.30078 1674.3906 C 320.24502 1674.3906 224.34961 1578.4952 224.34961 1457.4395 L 224.34961 590.5625 C 224.34961 469.50674 320.24502 373.61133 441.30078 373.61133 z M 741.01562 1107.1172 L 1306.9844 1107.1172 L 1306.9844 1673.0859 L 741.01562 1673.0859 L 741.01562 1107.1172 z M 976.52148 1187.6191 L 976.52148 1235.0996 L 976.52148 1345.3203 L 866.29688 1345.3203 L 818.81641 1345.3203 L 818.81641 1440.2832 L 866.29688 1440.2832 L 976.52148 1440.2832 L 976.52148 1550.5098 L 976.52148 1597.9844 L 1071.4785 1597.9844 L 1071.4785 1550.5098 L 1071.4785 1440.2832 L 1181.7031 1440.2832 L 1229.1836 1440.2832 L 1229.1836 1345.3203 L 1181.7031 1345.3203 L 1071.4785 1345.3203 L 1071.4785 1235.0996 L 1071.4785 1187.6191 L 976.52148 1187.6191 z "
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:63.47264862;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+</svg>
