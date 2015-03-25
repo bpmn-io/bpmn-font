@@ -1,0 +1,23 @@
+{
+  "name": "bpmn-font",
+  "version": "0.1.0",
+  "homepage": "https://github.com/bpmn-io/bpmn-font",
+  "authors": [
+    "Nico Rehwaldt <nico.rehwaldt@camunda.com>",
+    "bpmn.io <http://bpmn.io>"
+  ],
+  "description": "A BPMN 2.0 icon font",
+  "main": "dist/*",
+  "keywords": [
+    "bpmn",
+    "font",
+    "iconfont",
+    "icons"
+  ],
+  "license": "SIL",
+  "ignore": [
+    "docs",
+    "source",
+    "resources"
+  ]
+}
