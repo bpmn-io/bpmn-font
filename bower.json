@@ -4,7 +4,7 @@
   "homepage": "https://github.com/bpmn-io/bpmn-font",
   "authors": [
     "Nico Rehwaldt <nico.rehwaldt@camunda.com>",
-    "bpmn.io <http://bpmn.io>"
+    "bpmn.io (http://bpmn.io)"
   ],
   "description": "A BPMN 2.0 icon font",
   "main": "dist/*",
