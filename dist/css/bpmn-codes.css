@@ -91,3 +91,4 @@
 .icon-start-event-non-interrupting-multiple:before { content: '\e859'; } /* '' */
 .icon-intermediate-event-throw-signal:before { content: '\e85a'; } /* '' */
 .icon-intermediate-event-catch-non-interrupting-condition:before { content: '\e85b'; } /* '' */
+.icon-participant:before { content: '\e85c'; } /* '' */

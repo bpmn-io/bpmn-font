@@ -92,6 +92,20 @@
       ]
     },
     {
+      "uid": "15077f79e1454cc3a7dac90aaa5d287e",
+      "css": "participant",
+      "code": 59484,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M46.9 196.3L46.9 821.3 953.1 821.3 953.1 196.3ZM904.3 244L904.3 777 234.4 777 234.4 244 904.3 244ZM93.8 244L187.5 244 187.5 777 93.8 777Z",
+        "width": 1000
+      },
+      "search": [
+        "participant"
+      ]
+    },
+    {
       "uid": "5ccd9aa1fa9ad9e35affad82e17f7c7e",
       "css": "text-annotation",
       "code": 59440,
