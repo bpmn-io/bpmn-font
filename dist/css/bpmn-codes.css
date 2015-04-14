@@ -92,3 +92,6 @@
 .icon-intermediate-event-throw-signal:before { content: '\e85a'; } /* '' */
 .icon-intermediate-event-catch-non-interrupting-condition:before { content: '\e85b'; } /* '' */
 .icon-participant:before { content: '\e85c'; } /* '' */
+.icon-edit-default:before { content: '\e85d'; } /* '' */
+.icon-edit-navigation:before { content: '\e85e'; } /* '' */
+.icon-edit-space-tool:before { content: '\e85f'; } /* '' */

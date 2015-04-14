@@ -1312,7 +1312,7 @@
     {
       "uid": "b44ce7386dc2736aa9a395f10584ef3e",
       "css": "edit-default",
-      "code": 59484,
+      "code": 59485,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -1326,7 +1326,7 @@
     {
       "uid": "8a081abba9532b0cb38a013861800730",
       "css": "edit-navigation",
-      "code": 59485,
+      "code": 59486,
       "src": "custom_icons",
       "selected": true,
       "svg": {
@@ -1340,7 +1340,7 @@
     {
       "uid": "3413ddb663493630e4eaade5baf81d19",
       "css": "edit-space-tool",
-      "code": 59486,
+      "code": 59487,
       "src": "custom_icons",
       "selected": true,
       "svg": {
