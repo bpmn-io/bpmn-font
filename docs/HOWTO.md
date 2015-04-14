@@ -25,7 +25,7 @@ You may need to do some additional simplification of your drawing, such converti
 * Path -> Stroke to Path
 * Select all 
 * Path -> Union
-* File -> Vacuum Defs
+* File -> Vacuum Defs / Clean up document
 * Save as -> Plain SVG
 
 Save the symbols to the `src/symbols` folder.
