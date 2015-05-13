@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 2000 2000"
+   height="2000"
+   width="2000">
+  <defs
+     id="defs4">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="InfiniteLineStart"
+       style="overflow:visible">
+      <g
+         transform="translate(-13,0)"
+         style="fill:#000000"
+         id="g4460">
+        <circle
+           cx="3"
+           cy="0"
+           r="0.8"
+           id="circle4462" />
+        <circle
+           cx="6.5"
+           cy="0"
+           r="0.8"
+           id="circle4464" />
+        <circle
+           cx="10"
+           cy="0"
+           r="0.8"
+           id="circle4466" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Torso"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <g
+         transform="scale(0.7)"
+         id="g4428">
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.2500000"
+           d="M -4.7792281,-3.2395420 C -2.4288541,-2.8736027 0.52103922,-1.3019943 0.25792722,0.38794346 C -0.0051877922,2.0778819 -2.2126741,2.6176539 -4.5630471,2.2517169 C -6.9134221,1.8857769 -8.5210350,0.75201414 -8.2579220,-0.93792336 C -7.9948090,-2.6278615 -7.1296041,-3.6054813 -4.7792281,-3.2395420 z "
+           id="path4430" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt"
+           d="M 4.4598789,0.088665736 C -2.5564571,-4.3783320 5.2248769,-3.9061806 -0.84829578,-8.7197331"
+           id="path4432" />
+        <path
+           style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt"
+           d="M 4.9298719,0.057520736 C -1.3872731,1.7494689 1.8027579,5.4782079 -4.9448731,7.5462725"
+           id="path4434" />
+        <rect
+           style="fill-rule:evenodd;stroke-width:1.0000000pt"
+           width="2.6366582"
+           height="2.7608147"
+           x="-10.391706"
+           y="-1.7408575"
+           transform="matrix(0.527536,-0.849533,0.887668,0.460484,0,0)"
+           id="rect4436" />
+        <rect
+           style="fill-rule:evenodd;stroke-width:1.0000000pt"
+           width="2.7327356"
+           height="2.8614161"
+           x="4.9587269"
+           y="-7.9629307"
+           transform="matrix(0.671205,-0.741272,0.790802,0.612072,0,0)"
+           id="rect4438" />
+        <path
+           style="fill:#ff0000;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt"
+           d="M 16.779951 -28.685045 A 0.60731727 0.60731727 0 1 0 15.565317,-28.685045 A 0.60731727 0.60731727 0 1 0 16.779951 -28.685045 z"
+           transform="matrix(0,-1.109517,1.109517,0,25.96648,19.71619)"
+           id="path4440" />
+        <path
+           style="fill:#ff0000;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0000000pt"
+           d="M 16.779951 -28.685045 A 0.60731727 0.60731727 0 1 0 15.565317,-28.685045 A 0.60731727 0.60731727 0 1 0 16.779951 -28.685045 z"
+           transform="matrix(0,-1.109517,1.109517,0,26.82450,16.99126)"
+           id="path4442" />
+      </g>
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Mend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4225" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lstart"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4216" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jörg Dotzki</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>BPMN</rdf:li>
+            <rdf:li>bpmn-io</rdf:li>
+            <rdf:li>bpmn.io</rdf:li>
+            <rdf:li>Font</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     transform="translate(0,947.63784)"
+     id="layer1">
+    <path
+       id="path4664-7-5-3-1"
+       transform="translate(0,-947.63784)"
+       d="M 605.87109 104.80078 L 605.87109 540.91602 L 811.10938 540.91602 L 811.10938 104.80078 L 605.87109 104.80078 z M 108.92773 596.40039 L 108.92773 801.63867 L 545.04102 801.63867 L 545.04102 596.40039 L 108.92773 596.40039 z M 868.85547 596.40039 L 868.85547 801.63867 L 1304.9707 801.63867 L 1304.9707 596.40039 L 868.85547 596.40039 z M 1566.7324 656.36914 L 1566.7324 736.36914 L 1811.9336 736.36914 L 1811.9336 969.61523 L 1891.9336 969.61523 L 1891.9336 656.36914 L 1566.7324 656.36914 z M 605.87109 864.73047 L 605.87109 1300.8438 L 811.10938 1300.8438 L 811.10938 864.73047 L 605.87109 864.73047 z M 1811.252 1182.4688 L 1811.252 1335.7168 L 1891.252 1335.7168 L 1891.252 1182.4688 L 1811.252 1182.4688 z M 1811.9336 1561.6484 L 1811.9336 1794.8965 L 1573.9492 1794.8965 L 1573.9492 1874.8965 L 1891.9336 1874.8965 L 1891.9336 1561.6484 L 1811.9336 1561.6484 z M 671.12891 1563.9258 L 671.12891 1877.1719 L 989.11328 1877.1719 L 989.11328 1797.1719 L 751.12891 1797.1719 L 751.12891 1563.9258 L 671.12891 1563.9258 z M 1198.9297 1797.1719 L 1198.9297 1877.1719 L 1364.1309 1877.1719 L 1364.1309 1797.1719 L 1198.9297 1797.1719 z "
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:205.23829651;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+  </g>
+  <g
+     id="layer2" />
+</svg>
