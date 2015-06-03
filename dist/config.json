@@ -1102,7 +1102,7 @@
     },
     {
       "uid": "2b2b67ae827f64f5d7530358f12b2de9",
-      "css": "sequential-mi-marker-kopie",
+      "css": "sequential-mi-marker-copy",
       "code": 59414,
       "src": "custom_icons",
       "selected": true,
@@ -1111,7 +1111,7 @@
         "width": 1000
       },
       "search": [
-        "sequential-mi-marker-kopie"
+        "sequential-mi-marker-copy"
       ]
     },
     {
