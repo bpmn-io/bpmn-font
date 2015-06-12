@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,41 +7,35 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="2000"
-   viewBox="0 0 2000 2000"
-   id="svg2"
    version="1.1"
+   id="svg2"
+   viewBox="0 0 2000 2000"
+   height="2000"
+   width="2000"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="compensation-marker.svg">
-  <defs
-     id="defs4" />
+   sodipodi:docname="sequential-mi-marker.svg">
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3072379"
-     inkscape:cx="784.09494"
-     inkscape:cy="1000"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4008"
-       empspacing="20"
-       dotted="false" />
-  </sodipodi:namedview>
+     inkscape:window-width="1916"
+     inkscape:window-height="1041"
+     id="namedview5077"
+     showgrid="false"
+     inkscape:zoom="0.3337544"
+     inkscape:cx="709.60751"
+     inkscape:cy="1275.8455"
+     inkscape:window-x="3520"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -71,16 +63,8 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,947.63784)">
-    <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200;stroke-opacity:1"
-       d="M 364.07437,52.362155 998.1927,-406.6321 l 0,917.98852 z m 644.78773,0 634.1183,-458.994255 0,917.98852 z"
-       id="rect4136"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-  </g>
+  <path
+     style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:9.99999905;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:200;stroke-opacity:1"
+     d="M 400 500 L 400 700 L 1600 700 L 1600 500 L 400 500 z M 400 900 L 400 1100 L 1600 1100 L 1600 900 L 400 900 z M 400 1300 L 400 1500 L 1600 1500 L 1600 1300 L 400 1300 z "
+     id="path5674" />
 </svg>
