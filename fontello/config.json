@@ -177,6 +177,20 @@
       ]
     },
     {
+      "uid": "0e4e7b41902c0a24f36275201bee7f57",
+      "css": "lane",
+      "code": 59489,
+      "src": "custom_icons",
+      "selected": true,
+      "svg": {
+        "path": "M46.9 236.3L46.9 763.7 953.1 763.7 953.1 236.3ZM93.8 719.4L93.8 284 904.3 284 904.3 284 904.3 719.4Z",
+        "width": 1000
+      },
+      "search": [
+        "lane"
+      ]
+    },
+    {
       "uid": "5ccd9aa1fa9ad9e35affad82e17f7c7e",
       "css": "text-annotation",
       "code": 59440,
