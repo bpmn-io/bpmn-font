@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg3891"
+   height="2048"
+   width="2048">
+  <defs
+     id="defs3893" />
+  <metadata
+     id="metadata3896">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,995.63783)"
+     id="layer1">
+    <g
+       id="layer1-6"
+       transform="matrix(96.752895,0,0,96.752895,55.328158,-100816.34)">
+      <path
+         id="path7791"
+         transform="matrix(0.01033561,0,0,0.01033561,-0.57185015,1031.7077)"
+         d="M 1866.4062 206.69141 C 1866.4062 206.69141 1280.953 505.41548 983.5625 645.09766 C 1047.2698 703.27519 1106.5262 766.02366 1168 826.50391 C 980.03416 1016.978 792.06665 1207.4496 604.09961 1397.9219 L 263.20898 1397.9219 L 263.20898 1485.9863 L 517.19531 1485.9863 C 431.77605 1572.5443 346.35629 1659.1016 260.9375 1745.6602 C 283.11004 1766.8201 305.26496 1787.971 327.4375 1809.1309 C 433.73792 1701.412 540.03877 1593.6993 646.33984 1485.9863 L 1004.8457 1485.9863 L 1004.8457 1397.9219 L 733.24805 1397.9219 C 900.33227 1228.6194 1067.4169 1059.3166 1234.5 890.00391 C 1296.0877 951.37428 1357.3273 1013.0904 1418.9375 1074.4414 C 1577.7824 761.61021 1866.4062 206.69141 1866.4062 206.69141 z "
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.95637447;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+      <g
+         transform="matrix(0.01033561,0,0,0.01033561,19.338451,1039.3007)"
+         id="layer1-9">
+        <g
+           style="stroke:#000000;stroke-width:0.93020457;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           transform="matrix(125.07184,0,0,96.752895,613.03918,-100952.21)"
+           id="layer1-6-1" />
+      </g>
+    </g>
+  </g>
+</svg>
