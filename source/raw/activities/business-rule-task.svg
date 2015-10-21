@@ -14,7 +14,7 @@
    viewBox="0 0 2000 2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="business-rule-task.svg">
   <defs
      id="defs4" />
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4345"
-     inkscape:cx="582.27848"
-     inkscape:cy="1000"
+     inkscape:zoom="0.16"
+     inkscape:cx="-495.75712"
+     inkscape:cy="123.57491"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      showguides="false"
      inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
+     inkscape:window-height="1028"
+     inkscape:window-x="40"
      inkscape:window-y="0"
      inkscape:window-maximized="0">
     <inkscape:grid
@@ -91,11 +91,22 @@
        d="m 404.76179,-425.0748 0,215.17488 921.64241,0 0,-215.17488 z"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccczcccccccssccccccccccccc" />
-    <path
-       style="opacity:1;fill:none;fill-opacity:0.28037385;stroke:#000000;stroke-width:50;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 382.04834,-93.042495 0,-355.047245 959.67776,0 0,355.047245 0,355.047245 -628.36041,0 0,-482.17707 0,482.17707 -331.31735,0 0,-313.298362 959.67776,0 -959.67776,0 z"
-       id="rect4139"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+    <g
+       id="layer1-1"
+       inkscape:label="Ebene 1"
+       transform="matrix(0.61578514,0,0,0.61578514,248.05648,-126.03316)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         d="m 212.27677,-529.63785 0,382.36913 1574.78513,0 0,-382.36913 z"
+         id="path4135-4"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="ccccccccccscc"
+         inkscape:connector-curvature="0"
+         id="rect4139-7"
+         d="m 213.10529,52.362159 0,-581.999999 1573.78941,0 0,581.999999 0,582.000001 -1186.8947,0 0,-790.394 0,790.394 -386.89471,0 0,-401.56446 1573.78941,0 -1573.78941,0 z"
+         style="opacity:1;fill:none;fill-opacity:0.28037385;stroke:#000000;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
   </g>
 </svg>

@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,41 +7,35 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="2000"
-   viewBox="0 0 2000 2000"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="receive-task.svg">
-  <defs
-     id="defs4" />
+   id="svg2"
+   viewBox="0 0 2000 2000"
+   height="2000"
+   width="2000"
+   inkscape:version="0.91 r"
+   sodipodi:docname="receive.svg">
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.869"
-     inkscape:cx="586.10326"
-     inkscape:cy="1291.248"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4008"
-       empspacing="20"
-       dotted="false" />
-  </sodipodi:namedview>
+     inkscape:window-width="1630"
+     inkscape:window-height="947"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.472"
+     inkscape:cx="864.05386"
+     inkscape:cy="948.4855"
+     inkscape:window-x="50"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs4" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -72,16 +64,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,947.63784)">
-    <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.00000095;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="m 229,413 c -0.043,0.002 -0.086,0.005 -0.12891,0.008 -0.12332,0.004 -0.24645,0.0124 -0.36914,0.0254 -2.5525,0.25575 -4.49744,2.40153 -4.50195,4.9668 l 0,1164 c 2.8e-4,2.7613 2.23869,4.9997 5,5 l 1542,0 c 2.7613,-3e-4 4.9997,-2.2387 5,-5 l 0,-1164 c -0,-2.69252 -2.1391,-4.89848 -4.8301,-4.99023 -0.035,-0.003 -0.069,-0.006 -0.1035,-0.008 -0.022,-8e-4 -0.044,-0.001 -0.066,-0.002 l -960.87342,0 z m 17.94922,10 1506.10158,0 L 1000,877.75977 Z M 234,426.86133 997.41602,887.88086 c 1.58914,0.95917 3.57888,0.95917 5.16798,0 L 1766,426.86133 1766,1577 234,1577 Z"
-       transform="translate(0,-947.63784)"
-       id="rect4136"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+     style="display:inline"
+     id="layer2">
+    <g
+       id="g4251">
+      <path
+         id="path6159"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:70;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         d="m 189,465 0,1070 1622,0 0,-1070 -1622,0 z M 356.88086,535 1643.1191,535 1000,958.10547 356.88086,535 Z M 259,554.39648 1000,1041.8945 1741,554.39648 1741,1465 l -1482,0 0,-910.60352 z" />
+    </g>
   </g>
 </svg>

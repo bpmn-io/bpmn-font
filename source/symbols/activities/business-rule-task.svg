@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="2000"
-   viewBox="0 0 2000 2000"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="business-rule-task.svg">
+   id="svg2"
+   viewBox="0 0 2000 2000"
+   height="2000"
+   width="2000">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.4345"
-     inkscape:cx="656.14554"
-     inkscape:cy="1000"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4008"
-       empspacing="20"
-       dotted="false" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -72,14 +40,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,947.63784)">
+     transform="translate(0,947.63784)"
+     id="layer1">
     <path
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:120;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       d="M 429.65039 210 C 214.93394 210 40 384.196 40 598.5 L 40 1401.5 C 40 1615.804 214.93394 1790 429.65039 1790 L 1570.3496 1790 C 1785.0661 1790 1960 1615.804 1960 1401.5 L 1960 598.5 C 1960 384.196 1785.0661 210 1570.3496 210 L 429.65039 210 z M 429.65039 330 L 1570.3496 330 C 1720.8866 330 1840 448.82603 1840 598.5 L 1840 1401.5 C 1840 1551.174 1720.8866 1670 1570.3496 1670 L 429.65039 1670 C 279.11336 1670 160 1551.174 160 1401.5 L 160 598.5 C 160 448.82603 279.11336 330 429.65039 330 z M 357.04883 474.54883 L 357.04883 854.5957 L 357.04883 871.3457 L 357.04883 921.3457 L 357.04883 1234.6426 L 688.36523 1234.6426 L 738.36523 1234.6426 L 1366.7266 1234.6426 L 1366.7266 854.5957 L 1366.7266 474.54883 L 357.04883 474.54883 z M 407.04883 737.73828 L 688.36523 737.73828 L 688.36523 871.3457 L 407.04883 871.3457 L 407.04883 854.5957 L 407.04883 737.73828 z M 738.36523 737.73828 L 1316.7266 737.73828 L 1316.7266 854.5957 L 1316.7266 871.3457 L 738.36523 871.3457 L 738.36523 737.73828 z M 407.04883 921.3457 L 688.36523 921.3457 L 688.36523 1184.6426 L 407.04883 1184.6426 L 407.04883 921.3457 z M 738.36523 921.3457 L 1316.7266 921.3457 L 1316.7266 1184.6426 L 738.36523 1184.6426 L 738.36523 921.3457 z "
+       id="rect4187"
        transform="translate(0,-947.63784)"
-       id="rect4187" />
+       d="M 429.65039 210 C 214.93394 210 40 384.196 40 598.5 L 40 1401.5 C 40 1615.804 214.93394 1790 429.65039 1790 L 1570.3496 1790 C 1785.0661 1790 1960 1615.804 1960 1401.5 L 1960 598.5 C 1960 384.196 1785.0661 210 1570.3496 210 L 429.65039 210 z M 429.65039 330 L 1570.3496 330 C 1720.8866 330 1840 448.82603 1840 598.5 L 1840 1401.5 C 1840 1551.174 1720.8866 1670 1570.3496 1670 L 429.65039 1670 C 279.11336 1670 160 1551.174 160 1401.5 L 160 598.5 C 160 448.82603 279.11336 330 429.65039 330 z M 357.73047 473.9082 L 357.73047 1233.7871 L 1369.9512 1233.7871 L 1369.9512 473.9082 L 357.73047 473.9082 z M 400.83594 737.01367 L 1326.8477 737.01367 L 1326.8477 943.4043 L 639.08008 943.4043 L 639.08008 737.52344 L 595.97461 737.52344 L 595.97461 943.4043 L 400.83594 943.4043 L 400.83594 737.01367 z M 400.83594 986.50977 L 595.97461 986.50977 L 595.97461 1190.6816 L 400.83594 1190.6816 L 400.83594 986.50977 z M 639.08008 986.50977 L 1326.8477 986.50977 L 1326.8477 1190.6816 L 639.08008 1190.6816 L 639.08008 986.50977 z "
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:120;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       d="m 404.76179,-425.0748 0,215.17488 921.64241,0 0,-215.17488 z"
+       id="path4135"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       transform="matrix(0.61578514,0,0,0.61578514,248.05648,-126.03316)"
+       id="layer1-1" />
   </g>
 </svg>

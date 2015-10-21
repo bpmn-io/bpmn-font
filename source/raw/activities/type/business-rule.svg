@@ -14,7 +14,7 @@
    viewBox="0 0 2000 2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91 r"
    sodipodi:docname="business-rule.svg">
   <defs
      id="defs4" />
@@ -25,19 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4345"
-     inkscape:cx="1000"
-     inkscape:cy="1000"
+     inkscape:zoom="0.45254834"
+     inkscape:cx="811.70031"
+     inkscape:cy="1077.9584"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4008"
@@ -83,10 +83,10 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
-       style="opacity:1;fill:none;fill-opacity:0.28037385;stroke:#000000;stroke-width:10.00000095;stroke-linecap:round;stroke-miterlimit:4"
-       d="m 213.10529,52.362159 0,-581.999999 1573.78941,0 0,581.999999 0,582.000001 -1186.8947,0 0,-790.394 0,790.394 -386.89471,0 0,-513.56446 1573.78941,0 -1573.78941,0 z"
+       style="opacity:1;fill:none;fill-opacity:0.28037385;stroke:#000000;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 213.10529,52.362159 0,-581.999999 1573.78941,0 0,581.999999 0,582.000001 -1186.8947,0 0,-790.394 0,790.394 -386.89471,0 0,-401.56446 1573.78941,0 -1573.78941,0 z"
        id="rect4139"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccc" />
+       sodipodi:nodetypes="ccccccccccscc" />
   </g>
 </svg>

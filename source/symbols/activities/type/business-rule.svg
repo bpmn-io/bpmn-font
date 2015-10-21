@@ -1,49 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000"
-   height="2000"
-   viewBox="0 0 2000 2000"
-   id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="business-rule.svg">
+   id="svg2"
+   viewBox="0 0 2000 2000"
+   height="2000"
+   width="2000">
   <defs
      id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.4345"
-     inkscape:cx="582.27848"
-     inkscape:cy="1000"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="true"
-     units="px"
-     showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
-    <inkscape:grid
-       type="xygrid"
-       id="grid4008"
-       empspacing="20"
-       dotted="false" />
-  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -52,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -72,14 +40,15 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,947.63784)">
+     transform="translate(0,947.63784)"
+     id="layer1">
     <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 208.10547 413 L 208.10547 1000 L 208.10547 1063.4355 L 208.10547 1073.4355 L 208.10547 1587 L 595 1587 L 605 1587 L 1791.8945 1587 L 1791.8945 1000 L 1791.8945 413 L 208.10547 413 z M 218.10547 800.36914 L 595 800.36914 L 595 1063.4355 L 218.10547 1063.4355 L 218.10547 1000 L 218.10547 800.36914 z M 605 800.36914 L 1781.8945 800.36914 L 1781.8945 1000 L 1781.8945 1063.4355 L 605 1063.4355 L 605 800.36914 z M 218.10547 1073.4355 L 595 1073.4355 L 595 1577 L 218.10547 1577 L 218.10547 1073.4355 z M 605 1073.4355 L 1781.8945 1073.4355 L 1781.8945 1577 L 605 1577 L 605 1073.4355 z "
+       id="rect4139"
        transform="translate(0,-947.63784)"
-       id="path4135" />
+       d="M 178.10547 383 L 178.10547 1617 L 1821.8945 1617 L 1821.8945 383 L 178.10547 383 z M 248.10547 801 L 565 801 L 565 1145.4355 L 248.10547 1145.4355 L 248.10547 801 z M 635 801 L 1751.8945 801 L 1751.8945 1145.4355 L 635 1145.4355 L 635 801 z M 248.10547 1215.4355 L 565 1215.4355 L 565 1547 L 248.10547 1547 L 248.10547 1215.4355 z M 635 1215.4355 L 1751.8945 1215.4355 L 1751.8945 1547 L 635 1547 L 635 1215.4355 z "
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:70;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <g
+       transform="translate(1121.3204,-363.39027)"
+       id="layer1-5" />
   </g>
 </svg>

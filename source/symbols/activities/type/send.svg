@@ -14,18 +14,10 @@
    viewBox="0 0 2000 2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="send-task.svg">
+   inkscape:version="0.91 r"
+   sodipodi:docname="send.svg">
   <defs
-     id="defs4">
-    <inkscape:perspective
-       sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 1000 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="2000 : 1000 : 1"
-       inkscape:persp3d-origin="1000 : 666.66667 : 1"
-       id="perspective4140" />
-  </defs>
+     id="defs4" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -33,19 +25,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.4345"
-     inkscape:cx="237.32811"
-     inkscape:cy="994.53855"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="1062.5989"
+     inkscape:cy="892.16496"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer4"
      showgrid="true"
      units="px"
      showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="117"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-object-midpoints="false">
     <inkscape:grid
        type="xygrid"
        id="grid4008"
@@ -60,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -80,14 +74,13 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,947.63784)">
+     id="layer4"
+     inkscape:label="Ebene 1"
+     style="display:inline">
     <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 223.90039 412.73047 L 1000 840.92383 L 1776.0996 412.73047 L 223.90039 412.73047 z M 223.90039 622.92578 L 223.90039 1587.2695 L 1776.0996 1587.2695 L 1776.0996 622.92578 L 1000 1008.6621 L 223.90039 622.92578 z "
-       transform="translate(0,-947.63784)"
-       id="rect4136" />
+       style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 198 484 L 1000 938 L 1802 484 L 198 484 z M 200 652 L 200 1548 L 1804 1548 L 1804 652 L 1000 1100 L 200 652 z "
+       id="path6822" />
   </g>
 </svg>
