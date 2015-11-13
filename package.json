@@ -1,10 +1,16 @@
 {
   "name": "bpmn-font",
-  "version": "0.4.0",
-  "homepage": "https://github.com/bpmn-io/bpmn-font",
+  "description": "A BPMN 2.0 icon font",
+  "version": "0.5.0",
+  "keywords": [
+    "bpmn",
+    "font",
+    "iconfont",
+    "icons"
+  ],
   "author": {
     "name": "Nico Rehwaldt",
-    "url": "https://github.com/Nikku"
+    "url": "https://github.com/nikku"
   },
   "contributors": [
     {
@@ -12,16 +18,10 @@
       "url": "https://github.com/bpmn-io"
     }
   ],
-  "description": "A BPMN 2.0 icon font",
-  "keywords": [
-    "bpmn",
-    "font",
-    "iconfont",
-    "icons"
-  ],
+  "license": "SIL",
   "repository": {
     "type": "git",
     "url": "https://github.com/bpmn-io/bpmn-font"
   },
-  "license": "SIL"
+  "homepage": "https://github.com/bpmn-io/bpmn-font"
 }
