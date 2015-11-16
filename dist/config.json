@@ -1,6 +1,6 @@
 {
   "name": "bpmn",
-  "css_prefix_text": "icon-",
+  "css_prefix_text": "bpmn-icon-",
   "css_use_suffix": false,
   "hinting": true,
   "units_per_em": 1000,
