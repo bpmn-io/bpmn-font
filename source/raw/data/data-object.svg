@@ -14,7 +14,7 @@
    viewBox="0 0 2000 2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="data-object.svg">
   <defs
      id="defs4" />
@@ -25,24 +25,31 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6144758"
-     inkscape:cx="1242.3894"
-     inkscape:cy="1293.2312"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="378.5489"
+     inkscape:cy="1313.6868"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
      showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1028"
-     inkscape:window-x="40"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-width="1596"
+     inkscape:window-height="861"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:snap-to-guides="true"
+     inkscape:snap-grids="true">
     <inkscape:grid
        type="xygrid"
        id="grid4008"
-       empspacing="20"
-       dotted="false" />
+       empspacing="100"
+       dotted="false"
+       enabled="true"
+       visible="true"
+       snapvisiblegridlinesonly="true"
+       spacingx="0.6666666"
+       spacingy="0.66667" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -52,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -77,8 +84,8 @@
      id="layer1"
      transform="translate(0,947.63784)">
     <path
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:70;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 505.07122,-593.88439 674.92878,-4.5e-4 314.9288,326.247 0,966.24705 -989.85758,0 0,-1292.4936 654.92878,-4.5e-4 0,326.247 334.9288,0"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 438.24329,-694.74094 794.70221,-5.9e-4 328.8112,337.64724 0,1156.56454 -1123.51341,0 0,-1494.21119 754.48601,-5.9e-4 0,371.64724 369.0274,0"
        id="path4136"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
