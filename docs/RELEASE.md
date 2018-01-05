@@ -1,13 +1,13 @@
-## Release a new version of bpmn-font
+# Release a new version of bpmn-font
 
-A new version of bpmn-font should only be released, if really necessary, because with each release new font binaries are added to the github repository.
+A new version of bpmn-font should only be released, if really necessary, because with
+each release new font binaries are added to the github repository.
 
-- Import `bpmn-font/fontello/config.json` to Fontello.
 
+## Update Steps
+
+- Import [resources/font-config.json](../resources/font-config.json) to Fontello.
 - Download webfont.
-
-- Copy the content of the zip file to `bpmn-font/dist`.
-
-- Adjust the version property in `bpmn-font/package.json` and `bpmn-font/bower.json`.
-
+- Copy the `dist/css`, `dist/font` and `dist/demo.html` files to the project root.
+- Adjust the version property in `bpmn-font/package.json`.
 - (optional) Tweet how awesome the new version of the font is!
