@@ -1,20 +1,19 @@
-# bpmn font
+# bpmn-font
 
 A BPMN 2.0 icon font. Use it to model BPMN diagrams in your Word, VIM or other text editor.
 
-![Font Preview](./docs/symbols.png)
-
+![Font Preview](./resources/symbols.png)
 
 Checkout the [demo page](https://rawgit.com/bpmn-io/bpmn-font/master/dist/demo.html) for a list of included icons and their character code.
 
 
 ## Usage in HTML
 
-Include [CSS file](https://github.com/bpmn-io/bpmn-font/blob/master/dist/css/bpmn.css) and [fonts](https://github.com/bpmn-io/bpmn-font/tree/master/dist/font) into your webpage.
+Expose [`dist`](./dist) directory in your app and include [`dist/css/bpmn.css`](./dist/css/bpmn.css) in a webpage.
 
 Use icons prefixed with `bpmn-icon-`, i.e.:
 
-```
+```html
 <span class="bpmn-icon-task"></span>
 ```
 
