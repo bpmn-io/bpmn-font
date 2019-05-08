@@ -107,6 +107,7 @@
     <bpmn2:transaction id="Transaction_1"/>
     <bpmn2:callActivity id="CallActivity_1"/>
     <bpmn2:dataObject id="DataObject_1" name="Data Object 1"/>
+    <bpmn2:group id="Group_1" name="Group 1"/>
     <bpmn2:dataObjectReference id="DataObjectReference_1" name="" dataObjectRef="DataObject_1"/>
     <bpmn2:dataStoreReference id="_DataStoreReference_2" name="" dataStoreRef="DataStore_1"/>
   </bpmn2:process>
@@ -376,6 +377,9 @@
         <bpmndi:BPMNLabel>
           <dc:Bounds height="0.0" width="0.0" x="382.0" y="1142.0"/>
         </bpmndi:BPMNLabel>
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="_BPMNShape_Group_1" bpmnElement="Group_1">
+        <dc:Bounds height="100.0" width="80.0" x="464.0" y="1087.0"/>
       </bpmndi:BPMNShape>
     </bpmndi:BPMNPlane>
   </bpmndi:BPMNDiagram>
