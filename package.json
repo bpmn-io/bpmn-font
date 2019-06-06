@@ -1,7 +1,7 @@
 {
   "name": "bpmn-font",
   "description": "A BPMN 2.0 icon font",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "scripts": {
     "all": "run-s optimize build",
     "optimize": "svgo -f source/raw -r -o source/symbols",
