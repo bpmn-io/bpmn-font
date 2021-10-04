@@ -20,4 +20,4 @@ Use icons prefixed with `bpmn-icon-`, i.e.:
 
 ## License
 
-[SIL](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
+[OFL](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
