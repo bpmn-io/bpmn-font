@@ -2,6 +2,9 @@
   "name": "bpmn-font",
   "description": "A BPMN 2.0 icon font",
   "version": "0.10.0",
+  "scripts": {
+    "test": "echo 'no tests'"
+  },
   "keywords": [
     "bpmn",
     "font",
