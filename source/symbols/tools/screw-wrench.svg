@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="2000"
    height="2000"
    viewBox="0 0 2000 2000"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="replace9.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="screw-wrench.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,18 +26,21 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.300037"
-     inkscape:cx="735.40263"
-     inkscape:cy="1146.7922"
+     inkscape:cx="-289.96424"
+     inkscape:cy="1154.8576"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g99"
      showgrid="true"
      units="px"
      showguides="false"
-     inkscape:window-width="1878"
-     inkscape:window-height="1035"
-     inkscape:window-x="42"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid4008"
@@ -52,7 +55,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
         <cc:license
            rdf:resource="https://github.com/bpmn-io/bpmn-font/blob/master/LICENSE" />
         <dc:creator>
@@ -76,10 +78,14 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,947.63784)">
-    <path
-       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 1511.4512 292.91211 C 1401.1742 292.91211 1295.4131 336.71964 1217.4355 414.69727 C 1139.4579 492.6749 1095.6504 598.43392 1095.6504 708.71094 C 1095.6504 818.98795 1139.4579 924.74894 1217.4355 1002.7266 C 1295.4131 1080.7042 1401.1742 1124.5117 1511.4512 1124.5117 C 1693.7196 1124.5097 1854.7383 1005.8001 1908.6445 831.68555 L 1610.2656 911.63477 L 1377.9531 758.64844 L 1502.6484 510.00391 L 1659.2832 468.0332 L 1815.918 426.06445 C 1737.3474 341.29169 1627.0356 293.04901 1511.4512 292.91211 z M 1018.8477 848.10547 L 96.599609 1480.0215 C 68.123927 1564.1964 160.52285 1702.7948 255.59375 1707.0879 L 1158.4746 1088.7344 C 1085.6834 1026.9359 1036.3795 941.96841 1018.8477 848.10547 z "
-       transform="translate(0,-947.63784)"
-       id="path4136" />
+    <g
+       id="g99"
+       transform="matrix(1.0596294,-0.2034705,0.20045599,1.0755643,-99.646363,182.83447)">
+      <path
+         id="path4136"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1479.1508,-594.42722 c -109.5636,-12.95502 -219.9311,18.08769 -306.823,86.29906 -86.8918,68.21138 -143.1901,168.00388 -156.51,277.42426 -13.3198,109.42026 17.4298,219.505212 85.4844,306.037429 68.0545,86.532211 167.8393,142.423421 277.4028,155.378191 181.0893,21.4099 355.405,-77.46119 429.9932,-243.890227 l -306.1048,44.275356 -212.3302,-179.088219 153.9205,-232.06394 321.3812,-46.48632 c -67.8229,-93.34461 -171.5939,-154.1714 -286.4141,-167.88559 z M 947.7352,-40.465153 172.81361,491.76286 C 146.1502,570.58064 232.67056,700.35951 321.69089,704.3794 L 1078.4745,184.85083 C 1010.316,126.98535 964.15127,47.42409 947.7352,-40.465153 Z"
+         sodipodi:nodetypes="cssscccccccccccc" />
+    </g>
   </g>
 </svg>

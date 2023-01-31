@@ -23,7 +23,7 @@ You may need to do some additional simplification of your drawing, such converti
 * Select all
 * Object -> Ungroup
 * Path -> Stroke to Path
-* Select all 
+* Select all
 * Path -> Union
 * File -> Vacuum Defs / Clean up document
 * Save as -> Plain SVG
@@ -37,6 +37,19 @@ Save the symbols to the `src/symbols` folder.
 
 Drag and drop the svg symbols to [fontello](http://fontello.com/), adjust names and export the result into the `dist` folder.
 
+## adjust bpmn.css
+
+Per default, fontello adds unnecessary margin in `bpmn.css` and `bpmn-embedded.css` files. Make sure to remove it:
+
+```diff
+-  margin-right: .2em;
++  /* margin-right: .2em; */
+
+...
+
+-  margin-left: .2em;
++  /* margin-left: .2em; */
+```
 
 ## embedd the font
 
