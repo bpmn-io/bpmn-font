@@ -2,15 +2,15 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   version="1.1"
    width="2048"
    height="2048"
-   id="svg2">
+   id="svg2"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <metadata
@@ -21,17 +21,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,995.6378)"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,995.6378)">
     <path
-       d="m 1386.0938,113.25 0,50.4375 0,842.25 0,842.2813 0,50.4374 50.4374,0 458.4063,0 50.4063,0 0,-100.8437 -50.4063,0 -408,0 0,-791.875 0,-791.8125 408,0 50.4063,0 0,-100.875 -50.4063,0 -458.4063,0 -50.4374,0 z M 1221.125,903.03125 1066.6875,1025.3125 1188.9688,1179.75 1343.4062,1057.5 1221.125,903.03125 z M 912.21875,1147.5938 757.78125,1269.875 880.0625,1424.3125 1034.5,1302.0312 912.21875,1147.5938 z m -308.875,244.5624 -154.4375,122.2813 L 571.1875,1668.875 725.625,1546.5938 603.34375,1392.1562 z M 294.4375,1636.7188 140,1759 262.28125,1913.4375 416.71875,1791.1562 294.4375,1636.7188 z"
-       transform="translate(0,-995.6378)"
        id="rect2985"
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:100.84922791;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
+       style="color:#000000;fill:#000000;stroke-linecap:square;-inkscape-stroke:none"
+       d="M 1264.8535 -867.87413 L 1264.8535 28.356341 L 1264.8535 924.60048 L 1804.2715 924.60048 L 1865.1738 924.60048 L 1865.1738 802.79384 L 1804.2715 802.79384 L 1386.6602 802.79384 L 1386.6602 28.356341 L 1386.6602 -746.06749 L 1804.2715 -746.06749 L 1865.1738 -746.06749 L 1865.1738 -867.87413 L 1804.2715 -867.87413 L 1264.8535 -867.87413 z M 1057.498 -259.81944 L 932.54492 -133.95616 L 1058.4082 -9.0030344 L 1183.3613 -134.86632 L 1057.498 -259.81944 z M 807.5918 -8.0928781 L 682.63867 117.76845 L 808.50195 242.72158 L 933.45508 116.86025 L 807.5918 -8.0928781 z M 557.68555 243.63173 L 432.73242 369.49501 L 558.5957 494.44814 L 683.54883 368.58486 L 557.68555 243.63173 z M 307.7793 495.35829 L 182.82617 621.22158 L 308.68945 746.1747 L 433.64258 620.31142 L 307.7793 495.35829 z " />
   </g>
 </svg>
