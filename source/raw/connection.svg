@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="2207"
-     inkscape:cy="1289"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="1003.5714"
+     inkscape:cy="1016.4286"
      inkscape:document-units="px"
      inkscape:current-layer="layer1-6"
      showgrid="false"
@@ -49,6 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -63,8 +64,8 @@
        inkscape:label="Layer 1">
       <path
          id="path7791"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00988084;stroke-dasharray:none;marker:none;enable-background:accumulate"
-         d="m 19.13202,1033.2238 c -3.11048,1.4415 -6.22096,2.883 -9.3314395,4.3245 0.6560955,0.6457 1.3121915,1.2913 1.9682875,1.937 -3.2352612,3.2356 -6.4705223,6.4711 -9.7057835,9.7067 0.3669141,0.3565 0.7338283,0.7129 1.1007424,1.0694 3.2352614,-3.2355 6.4705227,-6.4709 9.7057841,-9.7064 0.656096,0.6561 1.312191,1.3122 1.968287,1.9683 1.431374,-3.0998 2.862748,-6.1997 4.294122,-9.2995 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.00988471;marker:none;enable-background:accumulate"
+         d="m 18.553228,1033.7611 c 0,0 -6.051017,3.0875 -9.1247294,4.5312 0.6584554,0.6013 1.3122484,1.2912 1.9476174,1.9163 -3.1250015,3.1667 -6.2913869,6.292 -9.4163875,9.4587 0.2291667,0.2187 0.4581513,0.4373 0.687318,0.656 3.1250007,-3.1667 6.2913861,-6.2917 9.4163875,-9.4584 0.636547,0.6343 1.228153,1.2309 1.864932,1.865 1.641759,-3.2333 4.624862,-8.9688 4.624862,-8.9688 z"
          sodipodi:nodetypes="cccccccc" />
     </g>
   </g>
