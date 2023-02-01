@@ -6,9 +6,9 @@ All notable changes to [bpmn-font](https://github.com/bpmn-io/bpmn-font) are doc
 
 ___Note:__ Yet to be released changes appear here._
 
-## 0.11.1
+## 0.12.0
 
-* `FIX`: improve visual presence of connection icons#target` ([#20](https://github.com/bpmn-io/bpmn-font/pull/20))
+* `FEAT`: simplify multi-connect icon ([#21](https://github.com/bpmn-io/bpmn-font/pull/21))
 
 ## 0.11.0
 
