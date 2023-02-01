@@ -1,7 +1,5 @@
 
 .bpmn-icon-trash:before { content: '\e801'; } /* '' */
-.bpmn-icon-conditional-flow:before { content: '\e802'; } /* '' */
-.bpmn-icon-default-flow:before { content: '\e803'; } /* '' */
 .bpmn-icon-gateway-parallel:before { content: '\e804'; } /* '' */
 .bpmn-icon-intermediate-event-catch-cancel:before { content: '\e805'; } /* '' */
 .bpmn-icon-intermediate-event-catch-non-interrupting-message:before { content: '\e806'; } /* '' */
@@ -104,5 +102,7 @@
 .bpmn-icon-group:before { content: '\e869'; } /* '' */
 .bpmn-icon-text-annotation:before { content: '\e86b'; } /* '' */
 .bpmn-icon-transaction:before { content: '\e8c4'; } /* '' */
-.bpmn-icon-connection:before { content: '\e8d8'; } /* '' */
 .bpmn-icon-screw-wrench:before { content: '\e8db'; } /* '' */
+.bpmn-icon-connection:before { content: '\e8dc'; } /* '' */
+.bpmn-icon-conditional-flow:before { content: '\e8e0'; } /* '' */
+.bpmn-icon-default-flow:before { content: '\e8e1'; } /* '' */
