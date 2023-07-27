@@ -6,6 +6,10 @@ All notable changes to [bpmn-font](https://github.com/bpmn-io/bpmn-font) are doc
 
 ___Note:__ Yet to be released changes appear here._
 
+## 0.12.1
+
+* `FIX`: add explicit encoding ([#22](https://github.com/bpmn-io/bpmn-font/pull/22))
+
 ## 0.12.0
 
 * `FEAT`: simplify multi-connect icon ([#21](https://github.com/bpmn-io/bpmn-font/pull/21))
