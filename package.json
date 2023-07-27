@@ -1,7 +1,7 @@
 {
   "name": "bpmn-font",
   "description": "A BPMN 2.0 icon font",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "scripts": {
     "test": "echo 'no tests'"
   },
