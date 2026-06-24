@@ -101,6 +101,7 @@
 .bpmn-icon-hand-tool:before { content: '\e868'; } /* '' */
 .bpmn-icon-group:before { content: '\e869'; } /* '' */
 .bpmn-icon-text-annotation:before { content: '\e86b'; } /* '' */
+.bpmn-icon-event-subprocess-collapsed:before { content: '\e8c3'; } /* '' */
 .bpmn-icon-transaction:before { content: '\e8c4'; } /* '' */
 .bpmn-icon-screw-wrench:before { content: '\e8db'; } /* '' */
 .bpmn-icon-connection:before { content: '\e8dc'; } /* '' */
