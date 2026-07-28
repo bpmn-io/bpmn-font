@@ -6,6 +6,8 @@ All notable changes to [bpmn-font](https://github.com/bpmn-io/bpmn-font) are doc
 
 ___Note:__ Yet to be released changes appear here._
 
+## 0.13.0
+
 * `FEAT`: add collapsed event sub-process icon ([#24](https://github.com/bpmn-io/bpmn-font/issues/24))
 * `FEAT`: add ad-hoc sub-process icon ([#30](https://github.com/bpmn-io/bpmn-font/pull/30))
 
