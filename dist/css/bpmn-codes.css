@@ -103,6 +103,7 @@
 .bpmn-icon-text-annotation:before { content: '\e86b'; } /* '' */
 .bpmn-icon-event-subprocess-collapsed:before { content: '\e8c3'; } /* '' */
 .bpmn-icon-transaction:before { content: '\e8c4'; } /* '' */
+.bpmn-icon-ad-hoc-subprocess:before { content: '\e8c5'; } /* '' */
 .bpmn-icon-screw-wrench:before { content: '\e8db'; } /* '' */
 .bpmn-icon-connection:before { content: '\e8dc'; } /* '' */
 .bpmn-icon-conditional-flow:before { content: '\e8e0'; } /* '' */
